@@ -5,7 +5,7 @@ Predicting author given song lyrics, using k-nearest neighbour and feed forward 
   What makes a Taylor Swift song a Taylor Swift song? What makes a Beatles song a Beatles
 song? Is it only a musical rhythm, an instrument, or can it be something else?
 	
-	This project aims to employ various machine learning technologies, including supervised
+This project aims to employ various machine learning technologies, including supervised
 classification algorithms in the form of nearest neighbour and feedforward neural network models. 
 An exploration of the data, and its structure and characteristics will
 proceed the design discussion. The experiment design, based on intuitions and assumptions of
